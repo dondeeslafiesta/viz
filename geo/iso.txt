@@ -1,0 +1,36 @@
+AN,Andaman & Nicobar
+CH,Chandigarh
+DH,Daman and Diu and Dadra and Nagar Haveli
+DL,Delhi
+HR,Haryana
+JH,Jharkhand
+KA,Karnataka
+KL,Kerala
+LD,Lakshadweep
+MP,Madhya Pradesh
+MH,Maharashtra
+OR,Odisha
+PY,Puducherry
+TN,TamilNadu
+CT,Chhattishgarh
+TG,Telangana
+AP,Andhra Pradesh
+GA,Goa
+HP,Himachal Pradesh
+PB,Punjab
+RJ,Rajasthan
+GJ,Gujarat
+UT,Uttarakhand
+UP,Uttar Pradesh
+SK,Sikkim
+AS,Assam
+AR,Arunachal Pradesh
+NL,Nagaland
+MN,Manipur
+MZ,Mizoram
+TR,Tripura
+ML,Meghalaya
+WB,West Bengal
+BI,Bihar
+LA,Ladakh
+JK,Jammu and Kashmir
